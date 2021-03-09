@@ -7,7 +7,7 @@ An other version can complete the english words and display the meaning in Chine
 It defines a words constant list by 'defconst'. 
 And define a company backend to complete English words.
 It only needs company mode.
-Do not require ispell or orther program.
+Do not require ispell or other program.
 
 ## Useage
 
